@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Basic Projects\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|d:\\programming\\basic projects\\calculator\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|solutionrelative:mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|d:\\programming\\basic projects\\calculator\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|solutionrelative:mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|d:\\programming\\basic projects\\calculator\\mainprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AE2D5-B2B7-400A-82E1-98EE9FFA5A6B}|calc.csproj|solutionrelative:mainprogram.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainprogram.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.cs",
+              "RelativeDocumentMoniker": "mainprogram.cs",
+              "ToolTip": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.cs [Design]",
+              "RelativeToolTip": "mainprogram.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:47:08.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainprogram.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.Designer.cs",
+              "RelativeDocumentMoniker": "mainprogram.Designer.cs",
+              "ToolTip": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.Designer.cs",
+              "RelativeToolTip": "mainprogram.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAWwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:46:49.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainprogram.cs",
+              "DocumentMoniker": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.cs",
+              "RelativeDocumentMoniker": "mainprogram.cs",
+              "ToolTip": "D:\\Programming\\Basic Projects\\Calculator\\mainprogram.cs",
+              "RelativeToolTip": "mainprogram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:57:42.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
